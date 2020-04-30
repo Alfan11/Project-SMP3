@@ -15,8 +15,6 @@ class Dashboard extends CI_Controller
 		$this->load->view("News");
 	}
 
-	public function pageNw(){
-		$this->load->view("page_news");
-	}
+	
 
 }

@@ -130,7 +130,7 @@
         <section class="page-section bg-dark text-white" >
             <div class="container text-center">
                 <h2 class="mb-4">Informasi Terbaru</h2>
-                <a class="btn btn-light btn-xl" href="<?php echo base_url();?>/Dashboard/profil">Click the Button</a>
+                <a class="btn btn-light btn-xl" href="<?php echo base_url() ;?>/Dashboard/profil">Click the Button</a>
             </div>
         </section>
         <!-- Contact section-->
